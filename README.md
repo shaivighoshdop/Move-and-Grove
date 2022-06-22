@@ -3,7 +3,7 @@
 This is an attempt at developing and deploying a fitness application that sends us new workouts (from YouTube) via an email everyday using HarperDB
 and Python.
 
- ### The project is divided into 3 parts:
+ ### The project is divided into the following parts:
 - First is setting up HarperDB account and creating our cloud instance.
 - Second, we setup the youtube_dl which basically extracts all the information (or the specified ones) from a YouTube workout video.
 - Then, we build our app using Streamlit.
