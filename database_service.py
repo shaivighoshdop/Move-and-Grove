@@ -1,8 +1,8 @@
 import harperdb
 
 url = "https://your-clouddatabaseurl.harperdbcloud.com"
-username = "YOUR_USER"
-password = "YOUR_PW"
+username = shal
+password = 123456
 
 #url = "http://localhost:9925"
 #username = "HDB_ADMIN"
